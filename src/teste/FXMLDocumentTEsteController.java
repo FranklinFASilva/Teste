@@ -30,6 +30,9 @@ public class FXMLDocumentTEsteController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
+        System.out.println("Flamengo será campeão brasileiro de 2019");
     }    
     
+
+
 }
